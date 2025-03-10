@@ -1,0 +1,9 @@
+*.csv
+venv/
+__pycache__/
+*.csv
+*.png
+*.pdf
+*.pptx
+*.docx
+nltk_data/
