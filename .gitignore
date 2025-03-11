@@ -6,4 +6,4 @@ __pycache__/
 *.docx
 nltk_data/
 final_consensus_severity.csv
-
+data
